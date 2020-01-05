@@ -1,0 +1,1 @@
+docker run -it -p 4001:3001 cowsay 3001
